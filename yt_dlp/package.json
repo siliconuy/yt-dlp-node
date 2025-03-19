@@ -1,0 +1,16 @@
+{
+  "name": "yt-dlp-node",
+  "version": "1.0.0",
+  "description": "A Node.js implementation of yt-dlp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "siliconuy",
+  "license": "Unlicense",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
